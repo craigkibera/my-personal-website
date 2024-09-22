@@ -4,10 +4,6 @@ body { background-color: gold;
 p {text-align: left;
     font-family: 'Trebuchet Ms';
 }
-.box{
-    height: auto;
-    width: auto;
-}
 .navbar ul{
     list-style-type: none;
     background-color: white;
@@ -37,4 +33,12 @@ p {text-align: left;
 .footer{
     text-align: center;
     background-color: whitesmoke;
+}
+.img-cloud{
+    float: right;
+    height: 300px;
+    position: relative;
+    bottom: 10px;
+    top: 10px;
+    width: 500px;
 }
